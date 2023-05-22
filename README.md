@@ -17,7 +17,7 @@
    - Chief of Rohkris
 
 ## Work Experience:
-#### 1. [PT. Indonesia Comnet Plus](http://plniconplus.co.id) | Project Controller | Medan `Dec'2020 - Now`
+#### 1. [PT. Indonesia Comnets Plus](http://plniconplus.co.id) | Project Controller | Medan `Aug 2022- oct 2022`
    - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
    - Responsible to improve and realize project delivery as timeline
    - Create Automation using Python and VBA Excel for day-to-day routine
