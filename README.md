@@ -34,10 +34,10 @@
    - Engaged in **targeted prospecting and personalized client consultations** to drive high-speed internet adoption.  
    - Developed and executed **data-driven marketing strategies**, enhancing service penetration and revenue growth.  
 
-### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | **Student Intern** | Purwokerto `2019`  
-   - Updated **CAD of distribution lines** using AutoCAD  
-   - Managed **fault data recap in the distribution network**  
-   - Researched **maintenance of 20 kV Cubicle in Pemalang**  
+### 2. [Golf Hafiz Medan](https://www.instagram.com/golf_hafizmedan/) | **Social Media Specialist** | Medan `2019`  
+   - Crafted **engaging and high-impact content strategies** to elevate brand presence across digital platforms.  
+   - Managed and optimized **multi-channel social media campaigns**, increasing audience engagement and conversion rates.  
+   - Analyzed audience insights and trends to develop **data-driven content plans**, maximizing brand exposure.  
 
 ---
 
