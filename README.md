@@ -8,7 +8,8 @@
 ---
 
 ## 📌 About Me:  
-- 🔭 Currently studying at [Universitas Islam Negeri Sumatera Utara (UINSU)](https://uinsu.ac.id/)  
+- 🔭 Currently studying **Information Systems** at [Universitas Islam Negeri Sumatera Utara (UINSU)](https://uinsu.ac.id/)  
+- 🎓 **Salemba Empat Scholarship Awardee** at UINSU  
 - 🌱 Currently learning **HTML and JavaScript**  
 - 👯 Looking to collaborate as a **Data Analyst**  
 - 🤔 Open to suggestions on **Automation and Data Analysis**  
@@ -18,10 +19,8 @@
 
 ## 🎓 Education:  
 
-### 1. [Universitas Islam Negeri Sumatera Utara (UINSU)](https://uinsu.ac.id/) | **Informatics Engineering** | Medan `2023 - Now`  
-   - Assistant Laboratory of Basic Electronics  
-   - Assistant Laboratory of Installation  
-   - Tutor of Engineering Mathematics  
+### 1. [Universitas Islam Negeri Sumatera Utara (UINSU)](https://uinsu.ac.id/) | **Information Systems** | Medan `2023 - Now`  
+   - **Salemba Empat Scholarship Awardee**  
 
 ### 2. [SMK Telkom 1 Medan](https://web.smktelkommedan.sch.id) | **TKJ (Teknik Komputer dan Jaringan)** | Medan `2020 - 2023`  
    - Chief of Rohkris  
