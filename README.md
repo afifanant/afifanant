@@ -33,15 +33,15 @@
 ---
 
 ## 🎓 Education  
-### 🎓 [Universitas Islam Negeri Sumatera Utara (UINSU)](https://uinsu.ac.id/)  
-**Information Systems** | `2023 - Now`  
+### 🎓 [State Islamic University of North Sumatra (UINSU)](https://uinsu.ac.id/)  
+**Information Systems** | `2023 - Present`  
 - 🏆 **Salemba Empat Scholarship Awardee**  
 
 ### 🏫 [SMK Telkom 1 Medan](https://web.smktelkommedan.sch.id)  
-**TKJ (Teknik Komputer dan Jaringan)** | `2020 - 2023`  
-- 🙏 **Chief of Rohkris**  
-- ❤️ **Ketua PMR (Palang Merah Remaja)**  
-- 🛡 **Perwakilan Cyber Security Tingkat Nasional**  
+**Computer and Network Engineering (TKJ)** | `2020 - 2023`  
+- 🙏 **Head of Rohkris (Christian Student Organization)**  
+- ❤️ **Head of Red Cross Youth (PMR)**  
+- 🛡 **National-Level Cyber Security Representative**  
 
 ---
 
