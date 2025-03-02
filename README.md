@@ -1,5 +1,7 @@
 # Hi there, I'm Apip - aka [afifanant](https://www.youtube.com/channel/UC0Mmt4RIdFw6oCiBKjP5Upw) 👋
 
+![Snake animation](https://fatkhurrhn.vercel.app/assets/github-contribution-grid-snake-dark.svg)
+
 ## About me:
 - 🔭 I’m currently study at [ITTP](https://ittelkom-pwt.ac.id/)
 - 🌱 I’m currently learning Html and Javascript
