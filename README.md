@@ -29,10 +29,10 @@
 
 ## 💼 Work Experience:  
 
-### 1. [PT. Indonesia Comnets Plus](http://plniconplus.co.id) | **Project Controller** | Medan `Aug 2022 - Oct 2022`  
-   - Integrated **Accuracy Plan, Master Plan, HR Plan, and Resource Plan**  
-   - Improved and ensured project delivery was on time  
-   - Developed **automation using Python and VBA Excel** for daily tasks  
+### 1. [PT. Indonesia Comnets Plus](http://plniconplus.co.id) | **Broadband Sales Specialist** | Medan `Aug 2022 - Oct 2022`  
+   - Spearheaded **strategic WiFi sales initiatives**, expanding market reach and boosting customer acquisition.  
+   - Engaged in **targeted prospecting and personalized client consultations** to drive high-speed internet adoption.  
+   - Developed and executed **data-driven marketing strategies**, enhancing service penetration and revenue growth.  
 
 ### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | **Student Intern** | Purwokerto `2019`  
    - Updated **CAD of distribution lines** using AutoCAD  
