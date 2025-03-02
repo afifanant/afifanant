@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate as a **Data Analyst**
 - 🤔 I’m looking for suggestions on **Automation and Data Analysis**
 - 💬 Ask me about anything!
-- 📫 How to reach me: **afifananta09@gmail.com**
+- 📫 How to reach me: **afifanant@gmail.com**
 
 ---
 
