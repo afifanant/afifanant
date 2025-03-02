@@ -60,7 +60,3 @@
 
 ---
 
-### 🐍 Snake Animation
-![Snake animation](https://github.com/afifanant/afifanant/blob/output/github-contribution-grid-snake.svg)
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
