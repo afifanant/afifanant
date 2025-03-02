@@ -61,10 +61,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/afifanant)  
 
 ---
-
-💡 **Tips:**  
-- Bisa tambahkan **Projects** atau **Certifications** kalau ada  
-- Bisa tambah **Portfolio** (misal link GitHub Pages atau Notion)  
-
-Sekarang profilmu lebih clean dan profesional! 🚀🔥  
-Kalau mau revisi atau ada tambahan, tinggal bilang aja! 😃
