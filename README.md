@@ -29,12 +29,12 @@
 
 ## 💼 Work Experience:  
 
-### 1. [PT. Indonesia Comnets Plus](http://plniconplus.co.id) | **Broadband Sales Specialist** | Medan `Aug 2022 - Oct 2022`  
+### 1. [PT. Indonesia Comnets Plus](http://plniconplus.co.id) | **Broadband Sales Specialist** | Medan `Aug 2021 - Oct 2022`  
    - Spearheaded **strategic WiFi sales initiatives**, expanding market reach and boosting customer acquisition.  
    - Engaged in **targeted prospecting and personalized client consultations** to drive high-speed internet adoption.  
    - Developed and executed **data-driven marketing strategies**, enhancing service penetration and revenue growth.  
 
-### 2. [Golf Hafiz Medan](https://www.instagram.com/golf_hafizmedan/) | **Social Media Specialist** | Medan `2019`  
+### 2. [Golf Hafiz Medan](https://www.instagram.com/golf_hafizmedan/) | **Social Media Specialist** | Medan `2023`  
    - Crafted **engaging and high-impact content strategies** to elevate brand presence across digital platforms.  
    - Managed and optimized **multi-channel social media campaigns**, increasing audience engagement and conversion rates.  
    - Analyzed audience insights and trends to develop **data-driven content plans**, maximizing brand exposure.  
