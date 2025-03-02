@@ -1,4 +1,5 @@
 # Hi there, I'm Apip - aka [afifanant](https://www.youtube.com/channel/UC0Mmt4RIdFw6oCiBKjP5Upw) 👋
+
 ## About me:
 - 🔭 I’m currently study at [ITTP](https://ittelkom-pwt.ac.id/)
 - 🌱 I’m currently learning Html and Javascript
@@ -13,7 +14,7 @@
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
- #### 2. [SMK Telkom 1 Medan](https://web.smktelkommedan.sch.id) | TKJ | Medan `2020-2023`
+#### 2. [SMK Telkom 1 Medan](https://web.smktelkommedan.sch.id) | TKJ | Medan `2020-2023`
    - Chief of Rohkris
 
 ## Work Experience:
@@ -25,6 +26,7 @@
    - Manage to update CAD of distribution lines using AutoCAD
    - Manage to recap fault in distribution network
    - Research on Maintenance of 20 kV Cubicle in Pemalang
+
 ---
 
 ### Languages and Tools:
@@ -54,6 +56,9 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/afifanant#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/afifanant#gh-dark-mode-only)
 
+---
 
+### 🐍 Snake Animation
+![Snake animation](https://github.com/afifanant/afifanant/blob/output/github-contribution-grid-snake.svg)
 
 [webdev]: https://github.com/vincentwidyan/vincentwidyan
