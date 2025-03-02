@@ -2,6 +2,9 @@
 
 ![Snake animation](https://fatkhurrhn.vercel.app/assets/github-contribution-grid-snake-dark.svg)
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/afifanant)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282361464415)
+
 ## About me:
 - 🔭 I’m currently study at [ITTP](https://ittelkom-pwt.ac.id/)
 - 🌱 I’m currently learning Html and Javascript
