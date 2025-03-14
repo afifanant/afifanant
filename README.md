@@ -72,7 +72,7 @@
 ---
 
 ## 🎓 Certifications
-![Sertifikat]([https://github.com/afifanant/afifanant/blob/main/sertifikat/sertifikat1.png])
+![Sertifikat](https://github.com/afifanant/afifanant/raw/main/sertifikat/sertifikat1.png)
 
 ---
 
