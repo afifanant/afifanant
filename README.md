@@ -71,4 +71,9 @@
 
 ---
 
-🔗 Check out my blog: [Apip's Tech Blog](https://yourblog.com)  
+## 🎓 Certifications
+![Sertifikat](https://github.com/afifanant/afifanant/raw/main/Microsoft_Office_untuk_Pemula_Word.pdf)
+
+---
+
+🔗 Check out my blog: [Apip's Tech Blog](https://yourblog.com)
