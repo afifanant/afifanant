@@ -73,11 +73,11 @@
 ![Sertifikat](https://github.com/afifanant/afifanant/raw/main/sertifikat/sertifikat-0.png)
 ![Sertifikat](https://github.com/afifanant/afifanant/raw/main/sertifikat/sertifikat-1.png)
 ![Sertifikat](https://github.com/afifanant/afifanant/raw/main/sertifikat/sertifikat-2.png)
-![Sertifikat](https://github.com/afifanant/afifanant/raw/main/sertifikat/sertifikat-3.png)
+![Sertifikat](https://github.com/afifanant/afifanant/raw/main/sertifikat/sertifikat-7.png)
 ![Sertifikat](https://github.com/afifanant/afifanant/raw/main/sertifikat/sertifikat-4.png)
 ![Sertifikat](https://github.com/afifanant/afifanant/raw/main/sertifikat/sertifikat-5.png)
 ![Sertifikat](https://github.com/afifanant/afifanant/raw/main/sertifikat/sertifikat-6.png)
-![Sertifikat](https://github.com/afifanant/afifanant/raw/main/sertifikat/sertifikat-7.png)
+![Sertifikat](https://github.com/afifanant/afifanant/raw/main/sertifikat/sertifikat-3.png)
 
 ---
 
