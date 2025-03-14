@@ -72,7 +72,7 @@
 ---
 
 ## 🎓 Certifications
-![Sertifikat]([https://github.com/afifanant/afifanant/raw/main/Microsoft_Office_untuk_Pemula_Word.pdf](https://github.com/afifanant/afifanant/blob/main/sertifikat/sertifikat1.png))
+![Sertifikat]([https://github.com/afifanant/afifanant/blob/main/sertifikat/sertifikat1.png])
 
 ---
 
