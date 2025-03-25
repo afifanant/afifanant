@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Apip - aka <a href="https://www.kompasiana.com/afifanant/6506c2b16e14f123b9006972/siapakah-afif-ananta">afifanant</a> 👋</h1>
 
 ![Gaming animation](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)  
-![Snake animation](https://github.com/afifanant/afifanant/blob/main/github-contribution-grid-snake-dark.svg)  
 
 ---
 
