@@ -1,3 +1,12 @@
+<div align="center">
+
+# 👋 Hi, I'm Afif Ananta!  
+**Welcome to my GitHub profile!** 😎  
+
+---
+</div>
+
+
 ## 📊 Most Used Languages  
 <table align="center" style="width: 100%; max-width: 800px;">
   <tr>
