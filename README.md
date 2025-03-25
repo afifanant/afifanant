@@ -2,6 +2,7 @@
 
 ![Gaming animation](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 ![Snake animation](https://github.com/afifanant/afifanant/blob/main/github-contribution-grid-snake-dark.svg)
+![Top Languages](https://camo.githubusercontent.com/dec663b95a4b88276d10a9fd4f3cade4c98088ff9426b07025fe518cd2a0c700/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e68617273616a61266c61796f75743d636f6d70616374267468656d653d64726163756c61)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/afifanant)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282361464415)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0Mmt4RIdFw6oCiBKjP5Upw)
