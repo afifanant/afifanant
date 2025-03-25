@@ -1,7 +1,6 @@
 # Hi there, I'm Apip - aka [afifanant](https://www.kompasiana.com/afifanant/6506c2b16e14f123b9006972/siapakah-afif-ananta) 👋  
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/afifanant/afifanant/blob/main/github-contribution-grid-snake-dark.svg)]
+![Snake animation](https://github.com/afifanant/afifanant/blob/main/github-contribution-grid-snake-dark.svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/afifanant)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282361464415)
