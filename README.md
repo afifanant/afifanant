@@ -1,14 +1,8 @@
-<h1 align="center">Hi there, I'm Apip - aka <a href="https://www.kompasiana.com/afifanant/6506c2b16e14f123b9006972/siapakah-afif-ananta">afifanant</a> 👋</h1>
-
-![Gaming animation](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)  
-
----
-
 ## 📊 Most Used Languages  
-<table align="center" style="width: 100%; max-width: 600px;">
+<table align="center" style="width: 100%; max-width: 800px;">
   <tr>
     <td style="text-align: center;">
-        <img src="https://camo.githubusercontent.com/dec663b95a4b88276d10a9fd4f3cade4c98088ff9426b07025fe518cd2a0c700/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e68617273616a61266c61796f75743d636f6d70616374267468656d653d64726163756c61" alt="Top Languages" style="width: 100%; max-width: 300px;">
+        <img src="https://camo.githubusercontent.com/dec663b95a4b88276d10a9fd4f3cade4c98088ff9426b07025fe518cd2a0c700/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e68617273616a61266c61796f75743d636f6d70616374267468656d653d64726163756c61" alt="Top Languages" style="width: 100%; max-width: 400px;">
     </td>
     <td style="text-align: center;">
         <a href="https://trakteer.id/afifanant" target="_blank">
@@ -17,8 +11,6 @@
     </td>
   </tr>
 </table>
-
-
 
 
 
