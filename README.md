@@ -9,17 +9,18 @@
 <table align="center">
   <tr>
     <td>
-        <img src="https://camo.githubusercontent.com/dec663b95a4b88276d10a9fd4f3cade4c98088ff9426b07025fe518cd2a0c700/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e68617273616a61266c61796f75743d636f6d70616374267468656d653d64726163756c61" alt="Top Languages" height="150">
+        <img src="https://camo.githubusercontent.com/dec663b95a4b88276d10a9fd4f3cade4c98088ff9426b07025fe518cd2a0c700/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e68617273616a61266c61796f75743d636f6d70616374267468656d653d64726163756c61" alt="Top Languages" height="200">
     </td>
     <td>
         <a href="https://trakteer.id/afifanant" target="_blank">
-            <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" alt="Trakteer Saya" height="60">
+            <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" alt="Trakteer Saya" height="70">
         </a>
     </td>
   </tr>
 </table>
 
 ---
+
 
 
 
